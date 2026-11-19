@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.jpg" alt="A phosphor-green signal line spikes, then settles into the outline of a small house" width="100%">
+</p>
 
-<!--
-**phosphorhouse/phosphorhouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### phosphor house
 
-Here are some ideas to get you started:
+Small independent game studio. We make games that glow a little too green.<br>
+Küçük, bağımsız bir oyun stüdyosu.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Now building →** a roguelike about reading the market: rumors, leaks, meme squeezes, and the people who believe them. Pre-production; reveal soon.<br>
+**Şu an →** piyasayı okumak üzerine bir roguelike: söylentiler, sızıntılar, meme dalgaları ve onlara inananlar. Yakında.
+
+`TypeScript` · `PixiJS` · `Vite` · `deterministic simulation` · `TR / EN`
