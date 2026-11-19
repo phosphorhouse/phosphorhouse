@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="banner.jpg" alt="A phosphor-green signal line spikes, then settles into the outline of a small house" width="100%">
+  <img src="banner.jpg" alt="A phosphor-green signal trace spikes across dark CRT glass, then settles into the outline of a small house" width="100%">
 </p>
 
 ### phosphor house
 
-Small independent game studio. We make games that glow a little too green.<br>
-Küçük, bağımsız bir oyun stüdyosu.
+Independent game studio. Games that glow a little too green.
 
-**Now building →** a roguelike about reading the market: rumors, leaks, meme squeezes, and the people who believe them. Pre-production; reveal soon.<br>
-**Şu an →** piyasayı okumak üzerine bir roguelike: söylentiler, sızıntılar, meme dalgaları ve onlara inananlar. Yakında.
+**Now in development — BUY THE RUMOR** *(Sell the News)*  
+A narrative trading roguelite inside a vintage CRT terminal. Corporate leaks, underground orders, and meme squeezes move the tape; your only edge is separating signal from noise while keeping the rest of your life together.
 
-`TypeScript` · `PixiJS` · `Vite` · `deterministic simulation` · `TR / EN`
+> *Every tip is a trap. Some traps pay.*
