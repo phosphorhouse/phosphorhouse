@@ -4,9 +4,10 @@
 
 ### phosphor house
 
-Independent game studio. Games that glow a little too green.
+Independent software lab & studio building sharp developer tools, creative engines, and interactive systems that glow a little too green.
 
-**Now in development — BUY THE RUMOR** *(Sell the News)*  
-A narrative trading roguelite inside a vintage CRT terminal. Corporate leaks, underground orders, and meme squeezes move the tape; your only edge is separating signal from noise while keeping the rest of your life together.
+- **Developer Tools & Telemetry** — Local-first observability, runtime diagnostics, and fast command-line tooling built for daily engineering.
+- **Interactive Systems & Games** — Tactile simulations and systems-driven satire, including **BUY THE RUMOR** *(Sell the News)*.
+- **Creative & Rendering Tooling** — Procedural shaders, 2D/3D stylization pipelines, and high-contrast visual craft.
 
-> *Every tip is a trap. Some traps pay.*
+> *Sharp tools. Strange worlds. High contrast.*
